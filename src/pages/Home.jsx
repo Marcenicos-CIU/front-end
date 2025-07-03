@@ -64,14 +64,14 @@ const Home = () => {
   return (
     <div className="container mt-4">
       <div className="p-4 bg-primary text-white rounded text-center">
-        <h1>¡Bienvenido a MarceNicos!</h1>
+        <h1>¡Bienvenido a UNAHUR Anti-Social Net!</h1>
         <p>Explorá, compartí y descubrí publicaciones increíbles.</p>
       </div>
 
       <section className="mt-5">
         <h2>Sobre Nosotros</h2>
         <p>
-          MarceNicos es una red social diseñada para que los usuarios puedan
+          UNAHUR Anti-Social Net es una red social diseñada para que los usuarios puedan
           compartir ideas, imágenes, pensamientos y conectar con otros.
           Apuntamos a crear un espacio libre, creativo y sin algoritmos que
           condicionen lo que ves.
