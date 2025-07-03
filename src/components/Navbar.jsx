@@ -88,7 +88,7 @@ const Navbar = () => {
         {/* Menú derecha */}
         <div>
           <ul className="navbar-nav d-flex flex-row gap-3 mb-0">
-            {user ? (
+            {user && user._id ? (
               <>
                 <li className="nav-item">
                   <Link className="nav-link" to="/feed">
