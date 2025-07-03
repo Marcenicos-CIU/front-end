@@ -13,7 +13,7 @@ App de React de la UNAHUR Anti-Social Net, red social que gestiona perfiles de u
 ---
 ## Back-end
 
-Esta app funciona con siguiente API: https://github.com/Marcenicos-CIU/back-end.git 
+Esta app funciona con siguiente API: https://github.com/Marcenicos-CIU/back-endPersistencia.git
 
 ## Configuración de proyecto
 
